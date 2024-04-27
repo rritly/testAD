@@ -1,1 +1,10 @@
-https://www.youtube.com/
+!Title: 4PDA Community hosts blacklist
+!Last modified: 25 Apr 2024 23:00 UTC
+!Expires: 1 day
+
+127.0.0.1 localhost
+::1 localhost
+0.0.0.0 0-84-4a0455e3-22d8-4d50-afd7-8f5cf0f75e65.analytics.mobilegamestats.com
+0.0.0.0 0-finanzierung.com
+0.0.0.0 0-okodukai.com
+0.0.0.0 youtube.com
