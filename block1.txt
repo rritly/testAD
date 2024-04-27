@@ -7,4 +7,4 @@
 0.0.0.0 0-84-4a0455e3-22d8-4d50-afd7-8f5cf0f75e65.analytics.mobilegamestats.com
 0.0.0.0 0-finanzierung.com
 0.0.0.0 0-okodukai.com
-0.0.0.0 youtube.com
+youtube.com
